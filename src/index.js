@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from '/Users/zainnaqvi/Desktop/Projects /jamming/jammming/src/components/App/App.js';
-import SearchBar from '/Users/zainnaqvi/Desktop/Projects /jamming/jammming/src/components/SearchBar/SearchBar.js';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
