@@ -1,5 +1,6 @@
 import React from "react";
-import TrackList from "../Tracklist/Tracklist";
+import "./SearchResults.css";
+import TrackList from "../TrackList/TrackList";
 
 const SearchResults = (props) => {
     return (
